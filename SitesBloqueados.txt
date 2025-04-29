@@ -1,8 +1,5 @@
 youtube.com.br
-www.youtube.com.br
+youtube.com
 facebook.com.br
-www.facebook.com.br
-globo.com
-www.globo.com
+facebook.com
 instagram.com
-www.instagram.com
